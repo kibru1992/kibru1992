@@ -14,6 +14,7 @@
 ### 🖋️ Profile
 
 I am a software engineer who loves Reformed theology and values traditional family life. I believe that technical excellence is a form of stewardship. Soli Deo Gloria.
+
 ---
 
 ### 🛠️ Tech Stack
