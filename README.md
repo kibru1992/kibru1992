@@ -13,24 +13,19 @@
 
 ### 🖋️ Profile
 
-Love Reformed Theology and value traditional family life. I believe that technical excellence is a form of stewardship. *Soli Deo Gloria.*
-
+I am a software engineer who loves Reformed theology and values traditional family life. I believe that technical excellence is a form of stewardship. Soli Deo Gloria.
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring boot,laravel,mysql,react,js,cpp,cs,java,git,docker,linux&theme=light" />
-  </a>
-</p>
+**Languages:** Java, JavaScript, C#, Java, C++  
+**Frameworks:** Spring Boot, React.js  
+**Databases:** MySQL, Postgres 
+**Tools:** Git, Postman, Docker
 
 ---
-
-### 📈 Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kibru1992&show_icons=true&theme=transparent&hide_border=true&title_color=333" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibru1992&layout=compact&theme=transparent&hide_border=true&title_color=333" width="45%" />
-</p>
+### 🔭 Initiatives
+* **Current:** Working on some AI Research and company project.
+* **Exploring:** AI/ML integrations and Agentic workflows.
 
 ---
 
