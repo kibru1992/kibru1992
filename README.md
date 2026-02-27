@@ -1,47 +1,60 @@
-# Hi 👋, I'm Kibru Abebe 
-### Software Engineer | AI Researcher 
+# Kibru Abebe 🚀
+### Senior Software Engineer | Full-Stack Architect | AI Systems Specialist
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/kibru-abebe-96bb93203/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/kibrudev)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:kibruabebe14@gmail.com)
+
+---
+
+### 🖋️ Professional Summary
+Results-driven **Software Engineer** with a focus on building scalable web architectures and integrating intelligent systems. Currently spearheading the **Hulu Project**, optimizing high-traffic streaming workflows. I specialize in bridging the gap between robust backend logic (Laravel/PHP) and dynamic frontend experiences (React).
+
+---
+
+### 🛠️ Core Competencies
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | PHP (Laravel), C#, Java, MySQL, API Design |
+| **Frontend** | React.js, JavaScript (ES6+), CSS3 (Tailwind/Sass), HTML5 |
+| **Languages** | C++, Java, C#, PHP, JavaScript |
+| **DevOps & Tools** | Git, Docker, Linux, CI/CD, Postman |
+
+---
+
+### 🔭 Current Focus & Initiatives
+- 🛠️ **Hulu Project:** Scaling microservices and improving UI responsiveness.
+- 🤖 **AI/ML Research:** Actively seeking collaborations on **Agentic AI** and Large Language Model (LLM) integrations.
+- 🎓 **Deep Dive:** Mastering Laravel 11’s latest architectural patterns for enterprise applications.
+
+---
+
+### 📊 Engineering Impact
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kibru1992&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&text_color=555&icon_color=0077B5" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibru1992&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=555" width="48%" />
+</p>
+
+---
+
+### 🏆 GitHub Milestones
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kibru1992&theme=flat&no-bg=true&column=4&margin-w=15" alt="Trophies" />
+</p>
+
+---
+
+---
+
+### 📚 Beyond the Code: Personal Pillars
+When I'm not at the terminal, my life is guided by a commitment to **Reformed Theology** and the strength of **traditional family values**. I believe that the discipline required for sound doctrine translates directly into the precision required for sound engineering.
+
+- **Current Reading:** Deep-diving into the Works of the Puritans and Reformed Systematic Theology.
+- **Values:** I am a firm advocate for the traditional family unit as the bedrock of a healthy society.
+- **Philosophy:** "Soli Deo Gloria" — I strive to reflect excellence in my craft as a matter of stewardship and integrity.
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kibru1992&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kibru's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kibru1992&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### ⚡ About Me
-- 🔭 **Currently Building:** [Hulu Project] - Refining high-performance web architectures.
-- 🌱 **Skill Upgrading:** Deep-diving into **Laravel 11+** and **Advanced AI Integration**.
-- 👯 **Open for Collaboration:** Passionate about **AI/ML**, Agentic workflows, and Open Source.
-- 💬 **Ask me about:** AI Related research and how to build scalable systems.
-- ⚡ **Fun Fact:** When I'm not coding, I'm usually lost in a good book. 📚
-
----
-
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,js,react,html,css,cpp,cs,java,spring boot,git,vscode,postman" />
-  </a>
-</p>
-
----
-
-### 📊 My GitHub Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kibru1992&theme=tokyonight&no-bg=true&margin-w=4" alt="kibru1992 trophies" />
-  </a>
-</p>
-
----
-
-### 🌐 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/kibru-abebe-96bb93203/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://twitter.com/kibrudev" target="blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="mailto:kibruabebe14@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=kibru1992&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kibru1992&label=Profile%20Views&color=0077B5&style=flat-square" alt="Views" />
 </p>
